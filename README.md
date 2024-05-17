@@ -1,4 +1,4 @@
-# Bibliote-JSF
+# Biblioteca-JSF
 
 Repositório criado com o objetivo de praticar a conexão JAVA com banco de dados usando autenticaçao usando Java server faces. 
 Pratiquei também aqui Conventional Commits. 
@@ -29,3 +29,5 @@ Esse projeto foi criado utilizando as tecnologias:
 ### :small_blue_diamond: SQL - Postgres
 ### :small_blue_diamond: Apache Tomcat
 
+
+:construction: Repositório em andamento
